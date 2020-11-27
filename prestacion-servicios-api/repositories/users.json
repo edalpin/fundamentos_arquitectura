@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Juan",
+        "identificacion": "123456",
+        "tipo_identificacion": "CC",
+        "correo_electronico": "juan@email.com",
+        "numero_telefono": "321465",
+        "nombre_usuario": "juan",
+        "contrasena": "Pass123",
+        "id_usuario": "146e5ca9-bf21-4b32-ab4a-6306b4db6c1d"
+    }
+]
