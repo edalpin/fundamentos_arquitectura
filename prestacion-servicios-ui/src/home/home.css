@@ -1,0 +1,25 @@
+.home-container {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  font-family: 'Crete Round', serif;
+}
+
+.home-container__title {
+  width: 100%;
+  text-align: center;
+}
+
+.home-container__card {
+  width: 300px !important;
+  margin: 30px !important;
+  background-color: brown;
+  color: white;
+}
+
+.home-card__avatar{
+  background-color:#2d40a7!important;
+  margin: 10px;
+  margin-left: 40%;
+}

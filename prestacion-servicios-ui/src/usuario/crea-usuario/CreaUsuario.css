@@ -1,0 +1,9 @@
+.creation-form {
+    padding-top: 60px;
+    width: 550px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

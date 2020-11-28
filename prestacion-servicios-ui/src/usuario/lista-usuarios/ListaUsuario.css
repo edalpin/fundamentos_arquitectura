@@ -1,0 +1,24 @@
+.list-container {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    font-family: 'Crete Round', serif;
+  }
+  
+.list-container__title {
+    width: 100%;
+    text-align: center
+}
+  
+.list-container__card {
+    font-family: 'Crete Round', serif;
+    width: 300px !important;
+    margin: 30px !important;
+    
+}
+
+.card__avatara {
+    background-color: teal !important;
+}
+
