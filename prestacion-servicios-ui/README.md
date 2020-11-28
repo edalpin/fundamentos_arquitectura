@@ -1,5 +1,5 @@
 # Prestación de servicios UI
-Versión de node requerida `14.15.0``
+Versión de node requerida `14.15.0`
 
 ## Pasos para correr la App
  - Ejecutar `npm install`
